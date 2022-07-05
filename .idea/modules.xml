@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tcc-pronto-NAO-COMITAR/Caiu.iml" filepath="$PROJECT_DIR$/tcc-pronto-NAO-COMITAR/Caiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TCC.iml" filepath="$PROJECT_DIR$/.idea/TCC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementacao-exemplo/edicao-03-tcc.iml" filepath="$PROJECT_DIR$/implementacao-exemplo/edicao-03-tcc.iml" />
+    </modules>
+  </component>
+</project>
