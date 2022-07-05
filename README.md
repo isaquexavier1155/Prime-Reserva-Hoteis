@@ -1,4 +1,4 @@
-# Projeto Final - CWI RESET - 3ª Edição
+# Projeto Final -Prime Reserva Hoteis
 
 Como desafio para o projeto final do CWI RESET, vamos criar a API de um aplicativo de aluguel de quartos e casas. O nome do aplicativo deverá ser definido por cada participante.
 
